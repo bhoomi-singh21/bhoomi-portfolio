@@ -4,7 +4,7 @@ A modern, responsive developer portfolio showcasing my projects, skills, and jou
 
 ## Live Demo
 
-🔗 [[https://your-netlify-link.netlify.app](https://wondrous-sorbet-723b6d.netlify.app)](https://bhoomisingh-portfolio.netlify.app)
+🔗 (https://bhoomisingh-portfolio.netlify.app)
 
 ## Features
 
